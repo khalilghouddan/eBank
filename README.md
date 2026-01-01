@@ -117,11 +117,6 @@ CREATE DATABASE ebank;
 2.  **Create Client (Agent)**: Go to the "Clients" tab and fill in the details.
 3.  **Transfer (Client)**: Select a source account, enter destination RIB, and amount.
 
-## 🤝 Contact
-
-**Khalil Ghouddan**
-*   [GitHub Profile](https://github.com/khalilghouddan)
-*   [Email](mailto:contact@khalil.com)
 
 ---
 *Built with ❤️ for generic banking simulations.*
